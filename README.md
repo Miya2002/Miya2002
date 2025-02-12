@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img  align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miya2002&label=Profile%20views&color=0e75b6&style=flat" alt="miya2002" /> </p>
+
 
 - 🌱 I’m a student of **BE-Software Engineering**
 
